@@ -77,7 +77,7 @@ All computations, visualizations, and metrics are handled interactively within t
 
 ---
 
-#TODO
+# TODO
 ## 📊 Results Snapshot
 
 | Algorithm | prr | Modularity (Q) | # Communities | NMI   | NVI   |
@@ -90,7 +90,7 @@ _Actual results are in `/results/`._
 
 ---
 
-#TODO
+# TODO
 ## 🎨 Sample Visualizations
 
 <p align="center">
@@ -129,7 +129,7 @@ Modularity has inherent resolution limits and can show high values even in rando
 
 ## 🤖 Authors
 
-For questions or rants: [github.com/marcellorussox](https://github.com/marcellorussox), [github.com/raimopasquale](https://github.com/raimopasquale)
+For questions or rants: [github.com/marcellorussox](https://github.com/marcellorussox), [github.com/pasqualeraimo](https://github.com/pasqualeraimo)
 
 ---
 
