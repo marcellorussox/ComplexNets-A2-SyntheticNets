@@ -1,6 +1,6 @@
 # 🧠 ComplexNets-A2-SyntheticNets
 
-> Community detection over synthetic networks generated with the Stochastic Block Model (SBM). Featuring Infomap, Louvain, and other modularity-based algorithms — with full-blown metrics, visualizations, and nerd-grade commentary. 💾
+> Community detection over synthetic networks generated with the Stochastic Block Model (SBM). Featuring Infomap, Louvain, and other modularity-based algorithms — with full-blown metrics and visualizations. 💾
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
